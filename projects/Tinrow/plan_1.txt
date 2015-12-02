@@ -1,0 +1,48 @@
+Project Tinrow
+Plan 1
+
+
+Stage 1 Maps
+
+  tasks:
+  1 - map data structure
+  2 - load on connec map data
+  3 - show map data on client
+  4 - switching between mapsmaps
+
+
+Stage 2  Ways
+
+  tasks:
+  1 - data structure
+  2 - load to client
+  3 - show on client
+  4 - event on click
+
+
+Stage 3 - Playfield
+
+  tasks:
+  1 - data structure
+  2 - random fill
+  3 - change detect
+  4 - detect lines
+  5 - destroy lines
+  6 - fill empty down
+  7 - detect no lines
+  8 - shake fieldd
+
+
+Stage 4 - Playfield page, elements
+
+  tasks:
+  1 - turns
+  2 - target count
+  3 - score
+
+
+Stage 5 - main page elements
+
+  tasks:
+  1 - money
+  2 - life
