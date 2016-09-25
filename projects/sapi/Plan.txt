@@ -1,28 +1,29 @@
-GameAPI
+Game Server AIP
 
 server
-- базовые функции
-- конфигурация
-- загрузчик серверных модулей и их инициализация
-- логирование
-- роутер
-- выдавать статику: картинки, звук, другое
-- обеспечивать связь(httpxmlrequest, websocket)
-- обращение к БД(Mysql)
-- профилер
-- статистика
-- социальные сети 
+- base functins
+- configuration
+- bootstrap(load modules and inititalization)
+- logs module
+- router module
+- share statics: images, sounds, etc
+- connection(httpxmlrequest, websocket)
+- database module(Mysql)
+- profile module
+- statistic
+- socialnet 
 
 client
-- обеспечивать связь(httpxmlrequest, websocket)
-- загрузчик картинок сразу!
-- конфигурация
-- базовые функции
-- роутер
-- Графический интерфейс, спрайты
-- Логирование
-- Страничник
-- Профилер
-- Социальные сети
-- Звуки
-22-66 дней рабочих
+- base functions
+- configuration
+- logs module
+- connection(httpxmlrequest, websocket)
+- image preloader
+- router
+- GUI(sprites, etc)
+- pager module
+- profiler module
+- social net module
+- sounds module
+
+22-66 days to work
